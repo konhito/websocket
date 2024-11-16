@@ -1,6 +1,6 @@
 # WebSocket Project:
 
-  ![Project Logo](path/to/logo.png)
+  ![Preview](https://media.discordapp.net/attachments/458945651623985175/1307318857853173800/Screenshot_2024-11-16_174153.png?ex=6739df10&is=67388d90&hm=45304d069b43e56ac9cf6ec2d23b3ed4694f58a2a2891436addebc6ca9a7506b&=&format=webp&quality=lossless&width=687&height=386)
 
 ## Overview
 
@@ -63,7 +63,7 @@ socket.onopen = function(event) {
 
   ## Contact
 
-  For any inquiries, please contact [Your Email](mailto:konhito0@gmail.com).
+  For any inquiries, please contact [konhito0@gmail.com](mailto:konhito0@gmail.com).
 
   ## Screenshots
 
