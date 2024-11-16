@@ -66,7 +66,7 @@ socket.onopen = function(event) {
   For any inquiries, please contact [konhito0@gmail.com](mailto:konhito0@gmail.com).
 
   ## Video
- [![asciicast](https://asciinema.org/a/113463.png)](https://youtu.be/nmc4mB8bTBE)
+ [![asciicast](https://i.ibb.co/M1v4g17/Screenshot-2024-11-16-174153.png)](https://youtu.be/nmc4mB8bTBE)
   
 
 
