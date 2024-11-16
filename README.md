@@ -65,9 +65,8 @@ socket.onopen = function(event) {
 
   For any inquiries, please contact [konhito0@gmail.com](mailto:konhito0@gmail.com).
 
-  ## Screenshots
-
-  ![Screenshot1](https://i.ibb.co/M1v4g17/Screenshot-2024-11-16-174153.png)
-  *Description of the screenshot.*
+  ## Video
+  [![Screenshot1] (https://i.ibb.co/M1v4g17/Screenshot-2024-11-16-174153.png)](https://youtu.be/nmc4mB8bTBE)
+  
 
 
