@@ -1,6 +1,6 @@
 # WebSocket Project:
 
-  ![Preview](https://media.discordapp.net/attachments/458945651623985175/1307318857853173800/Screenshot_2024-11-16_174153.png?ex=6739df10&is=67388d90&hm=45304d069b43e56ac9cf6ec2d23b3ed4694f58a2a2891436addebc6ca9a7506b&=&format=webp&quality=lossless&width=687&height=386)
+  ![Preview](https://i.ibb.co/M1v4g17/Screenshot-2024-11-16-174153.png)
 
 ## Overview
 
@@ -67,8 +67,7 @@ socket.onopen = function(event) {
 
   ## Screenshots
 
-  ![Screenshot1](path/to/screenshot1.png)
+  ![Screenshot1](https://i.ibb.co/M1v4g17/Screenshot-2024-11-16-174153.png)
   *Description of the screenshot.*
 
-  ![Screenshot2](path/to/screenshot2.png)
-  *Description of the screenshot.*
+
