@@ -1,0 +1,15 @@
+websocket is commmunication protocols like http smtp ftp 
+every socket has a id socket.it we can access
+
+to tigger event
+
+emit - we trigger event | in simple sending data
+on - handler/listner    | reciving the data
+brodcast - send data to ever 
+to - send data to specific socket (socket.to(id).emit)
+join - 
+
+server                  |       client
+io.emit(event1,"hii")   |  io.on(event1,()=>{clg(data)}) 
+ 
+ 
