@@ -183,7 +183,7 @@ const App = () => {
           </List>
         )}
       </Paper>
-
+      <h3>changes</h3>
       <form
         onSubmit={handleSubmit}
         style={{ display: "flex", gap: "10px", marginTop: "20px" }}
@@ -213,7 +213,7 @@ const App = () => {
             backgroundColor: "#00796b",
             color: "#fff",
             borderRadius: "20px",
-            padding: "10px 20px",
+            padding: "10px 20px 20px",
           }}
         >
           Send
@@ -222,5 +222,5 @@ const App = () => {
     </Container>
   );
 };
-
+//made some changes added few features
 export default App;
